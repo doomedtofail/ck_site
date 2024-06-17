@@ -4,5 +4,6 @@ source 'https://rubygems.org'
 # maintaining a local Jekyll environment in sync with GitHub Pages
 # https://github.com/github/pages-gem
 gem 'github-pages'
+gem 'bigdecimal', '3.1.8'
 
 gem "webrick", "~> 1.7"
