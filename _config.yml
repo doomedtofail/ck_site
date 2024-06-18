@@ -2,8 +2,8 @@
 title: Caelan Kilduff [CKae]
 author: Caelan Kilduff
 description: "No hugs, some learning"
-baseurl: 
-# url: "https://caelankilduff.com"
+baseurl: ""
+url: "https://ck-site.pages.dev"
 date_format: "%b %-d, %Y"
 
 # Google services
