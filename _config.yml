@@ -1,9 +1,9 @@
 # Site settings
 title: Caelan Kilduff [CKae]
 author: Caelan Kilduff
-description: "No hugs, some learning"
+description: "Hardware, not Easyware"
 baseurl: ""
-url: "https://ck-site.pages.dev"
+url: "https://caelankilduff.com/"
 date_format: "%b %-d, %Y"
 
 # Google services
