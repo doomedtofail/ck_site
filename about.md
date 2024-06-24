@@ -10,7 +10,7 @@ headshot: /images/ckae.jpg
 
 Born and raised near the UK's second city of Birmingham. 
 
-Growing up I always knew I wanted to be within an engineering discipline, but never quite knew what options were available or what those diciplines looked like. 
+Growing up, I always knew I wanted to be within an engineering discipline, but never quite knew what options were available or what those disciplines looked like. 
 
 An apprenticeship in Mechanical Maintenance quickly set me on the path of Electronic Engineering, and I never looked back.
 
@@ -20,7 +20,7 @@ Currently, I work with [Energym](index.md), a smart-tech fitness company, develo
 
 Looking after a range of teams including: Electronic Design, Embedded Firmware, MobileDev, WebDev.
 
-Helping scale the business though the startup phase in a range of tech stacks and disciplines. 
+Helping scale the business through the startup phase in a range of tech stacks and disciplines. 
 
 ### What I used to do
 
@@ -35,7 +35,7 @@ My roles have allowed me to travel and stay in manufacturing regions in the Far 
 
 ### What I hope to achieve
 
-My somewhat unique background within the Electronics/Electronic Systems space have given me the opportunity to gain a "cradle to grave" insight into the process.
+My somewhat unique background within the Electronics/Electronic Systems space has given me the opportunity to gain a "cradle to grave" insight into the process.
 
 I am always looking to leverage this insight by working with projects or people who are looking to excel in:
 - Electronic Design, Testing, and Manufacturing
